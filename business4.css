@@ -115,7 +115,7 @@ nav {
     width: 120px;
     top: 30px;
     left: 160px;
-    border-bottom: 2px solid #f17d3a;
+    border-bottom: 2px solid #3b85b9;
 }
 
 .head p {
@@ -145,7 +145,7 @@ nav {
 
 .theme-stripe {
     height: 20px;
-    background-color: #f17d3a;
+    background-color: #3b85b9;
     box-shadow: 0 10px 20px 0 #dbdbe8;
 }
 .trapezoid {
@@ -188,7 +188,7 @@ nav {
     width: 60px;
     margin: 0 auto;
     height: 32%;
-    background:#f17d3a;
+    background:#3b85b9;
     border-radius: 20px 0px 0px 20px;
     box-shadow: 0 26px 20px 0 #dbdbe8;
     opacity: 0.97;
@@ -202,7 +202,7 @@ nav {
     width: 60px;
     margin: 0 auto;
     height: 32%;
-    background:#f17d3a;
+    background:#3b85b9;
     border-radius: 20px 0px 0px 20px;
     box-shadow: 0 26px 20px 0 #dbdbe8;
     opacity: 0.97;
@@ -216,7 +216,7 @@ nav {
 
 .icon_sub_box {
     font-size: 18px;
-    background:#f17d3a;
+    background:#3b85b9;
     width: 40px;
     line-height: 40px;
     border-radius: 50%;
@@ -231,7 +231,7 @@ nav {
     position: absolute;
     width: 70px;
     height: 1px;
-    background-color: #f17d3a;
+    background-color: #3b85b9;
     right: -70px;
     top: 50%;
 }
@@ -240,7 +240,7 @@ nav {
     position: absolute;
     width: 70px;
     height: 1px;
-    background-color: #f17d3a;
+    background-color: #3b85b9;
     left: -70px;
     top: 50%;
 }
@@ -268,7 +268,7 @@ nav {
 .data_box {
     width: 100%;
     margin: auto;
-    border: 1px solid #f17d3a;
+    border: 1px solid #3b85b9;
     padding: 5px 15px;
     box-sizing: border-box;
 }
@@ -360,7 +360,7 @@ h3::after {
     width: 120px;
     top: 30px;
     left: 140px;
-    border-bottom: 2px solid #f17d3a;
+    border-bottom: 2px solid #3b85b9;
 }
 
 .text_container {
@@ -405,7 +405,7 @@ h3::after {
     height: 400px;
     margin: auto;
     margin-top: 20px;
-    border: 1px solid #f17d3a;
+    border: 1px solid #3b85b9;
     border-radius: 10px;
     padding: 10px;
     box-shadow: 0 6px 20px 0 #dbdbe8;
@@ -436,11 +436,12 @@ h3::after {
 .product_box button {
     padding: 5px;
     font-size: 16px;
-    border: 2px solid wheat;
+    border: 2px solid #3f51b5;
     color: white;
     border-radius: 3px;
     float: right;
-    background-color: #f17d3a;
+    outline: none;
+    background-color: #3b85b9;
 }
 
 .Payment {
@@ -643,7 +644,7 @@ h3::after {
 .review_content {
     /* background-color: cadetblue; */
     padding: 30px 0 10px 0;
-    border-bottom: 2px solid #f17d3a;
+    border-bottom: 2px solid #3b85b9;
 }
 
 .review_content p {
@@ -664,7 +665,7 @@ h3::after {
     float: left;
     font-size: 20px;
     margin: 7px 0;
-    color: #f17d3a;
+    color: #3b85b9;
 }
 
 .review_content h4 {
@@ -792,7 +793,7 @@ input[name="star"]:checked~label .star {
     border-radius: 3px;
     outline: none;
     border: none;
-    background-color: #f17d3a;
+    background-color: #3b85b9;
 }
 
 .comment_box input,
